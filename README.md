@@ -1,5 +1,5 @@
 # Hi there, I'm Marci! 
- I'm a fullstack developer student from Codecool, open to work!👨🏽‍💻
+ I'm a fullstack developer student from Codecool!
 ##  ✨ Contact me
 - LinkedIn: [https://www.linkedin.com/in/M9Bene/](https://www.linkedin.com/in/M9Bene/)
 - email: bene9marci@gmail.com
